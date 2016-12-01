@@ -15,4 +15,45 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
 # Schedule
 * 3pm - 4pm: Letcutre
  * Be friend with Code: My Timeline
- * Algorithmic Art
+ * Algorithmic Art: Introduce Some Algorithms and their applications
+ * Code is a powerful tool: code for...
+ * Generative Pattern and Handcrafting
+ * Generative Typography: Brief Introduction
+
+* 4pm - 5pm : Coding Workshop
+ * Warm Up
+ * Challenge: Recursion 1/2/3
+ * Perlin Noise: Recreate "Day 100"
+ * Animated it!
+ * Video Feed the Color
+ 
+# Resources/Inspiration:
+* Jackson Pollock
+* Algorithms:
+ * Random Walk
+ * Perlin Noise
+ * Oscillation(simple harmonic motion)
+ * Box 2D
+ * Toxiclibs
+ * Flocking
+ * Cellular Automata
+ * Attraction
+ * DeJong
+ * Lorentz Attractor
+ * Delaunay
+ * Voronoi
+ * Fractals
+
+# Books
+* Nature of Code by Dan Shiffman
+* Generative Art
+
+
+# Processing Libraries
+* Video Library
+* Computer Vision Library
+* PDF Library
+
+
+
+ 
