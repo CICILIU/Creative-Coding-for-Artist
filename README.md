@@ -9,6 +9,6 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
 
 # Before the Workshop
 * Install Processing
-<br>> https://www.processing.org/download/<
+<br> > https://www.processing.org/download/<
 * Bring Your own Laptop to the workshop(MAC/PC/iPad)
 
