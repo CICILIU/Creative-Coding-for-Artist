@@ -45,7 +45,7 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
  * Fractals
 
 # Books
-* Nature of Code by Dan Shiffman
+* [Nature of Code by Dan Shiffman](http://natureofcode.com/)
 * Generative Art
 
 
