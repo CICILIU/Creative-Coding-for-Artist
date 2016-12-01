@@ -27,6 +27,10 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
  * Animated it!
  * Video Feed the Color
  
+* 5pm and after
+ * Print your stuff(Optional)
+ * Creative Output Suggestions(Artist Book/Cardboard Frame)
+ 
 # Resources/Inspiration:
 * Jackson Pollock
 * Algorithms:
