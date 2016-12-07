@@ -34,8 +34,8 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
 # Resources/Inspiration:
 * Jackson Pollock
 * Algorithms:
- * Random Walk
- * Perlin Noise
+ * [Random Walk](https://en.wikipedia.org/wiki/Random_walk)
+ * [Perlin Noise](https://en.wikipedia.org/wiki/Perlin_noise)
  * Oscillation(simple harmonic motion)
  * Box 2D
  * Toxiclibs
