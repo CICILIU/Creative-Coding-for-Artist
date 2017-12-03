@@ -58,7 +58,7 @@ Creative Coding for Artist by Liu Chang @Fou Gallery, 12.10.2016.
 * Computer Vision Library
 * PDF Library
 
-Homework(https://github.com/CICILIU/Creative-Coding-for-Artist/wiki/Homework)
+[Homework](https://github.com/CICILIU/Creative-Coding-for-Artist/wiki/Homework)
 
 
 
